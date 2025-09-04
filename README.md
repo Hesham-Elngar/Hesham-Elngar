@@ -15,8 +15,6 @@
 - :zap: Fun fact: I love experimenting with new tools and building real-world projects <br>
 
 <h3 align="left">💼 Current Focus:</h3>
-- Docker, Kubernetes, Jenkins, Ansible, Terraform <br>
-- Bash & Python scripting for automation <br>
 - AWS Cloud & Networking basics <br>
 - CI/CD pipelines & DevOps practices <br>
 
